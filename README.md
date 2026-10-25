@@ -4,7 +4,12 @@ A python text-based processor script that **_minifies_**[^1] the input html file
 \
 Inspired by **htmlnano**[^2] and **cssnano**[^3]
 <br/>
+
+- [x] Minifier _10/26/26_
+- [ ] Parser
 <br/>
+<br/>
+
 ## Usage ⤵️
 ```
 python htmlparser.py
