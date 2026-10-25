@@ -53,6 +53,6 @@ Aside from that no need to install third-party modules.
 [^2]: https://htmlnano.netlify.app/
 [^3]: https://cssnano.github.io/cssnano/
 [^4]: [What is parsing](https://www.geeksforgeeks.org/compiler-design/introduction-to-parsing/)
-[^5]: myportfolio
-[^6]: a sample code from [mdn](https://developer.mozilla.org/) 
+[^5]: [myportfolio.html](./myportfolio.html)
+[^6]: [number-game.html](./number-game.html) a sample code from [mdn](https://developer.mozilla.org/) 
 [^7]: https://www.onlinegdb.com/
